@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 904.0, 134.0, 1284.0, 1039.0 ],
+		"rect" : [ 904.0, 134.0, 668.0, 453.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -2566,7 +2566,6 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-36",
@@ -4312,8 +4311,8 @@
 			"obj-60" : [ "live.gain~", "live.gain~", 0 ],
 			"obj-32" : [ "start", "start", 0 ],
 			"obj-7" : [ "saturate", "saturate", 0 ],
-			"obj-110" : [ "friction", "friction", 0 ],
-			"obj-33" : [ "length", "length", 0 ]
+			"obj-33" : [ "length", "length", 0 ],
+			"obj-110" : [ "friction", "friction", 0 ]
 		}
 ,
 		"dependency_cache" : [ 			{
