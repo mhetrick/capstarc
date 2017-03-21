@@ -6,4 +6,4 @@ TODO:
 - Implement friction.
 - Fix length control on load. You need to wiggle the length knob to get playback to occur initially.
 
-![alt text](./capstarc.png "Capstarc")
+![capstarc](https://github.com/mhetrick/capstarc/blob/master/capstarc.PNG "Capstarc")
